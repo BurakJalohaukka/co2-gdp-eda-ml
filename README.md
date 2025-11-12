@@ -13,6 +13,8 @@ The analysis includes:
 * Machine learning modeling to explore predictive relationships
 * Feature interpretation and residual analysis to understand model behavior
 
+Link to notebook : [GDP CO2](https://github.com/BurakJalohaukka/co2-gdp-eda-ml/blob/main/co2_vs_gdp.ipynb)
+
 
 | Aspect                 | Observation                                                                                                            |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------- |
